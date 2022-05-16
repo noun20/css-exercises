@@ -19,7 +19,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
-  padding: 5px;
+  padding: 5px 16px;
 }
 
 input {
@@ -57,5 +57,5 @@ ul {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  flex-wrap: wrap;
+  margin: 5px;
 }
